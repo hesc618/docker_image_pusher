@@ -5,3 +5,4 @@ xhofe/alist:latest
 hectorqin/reader
 adguard/adguardhome
 nyanmisaka/jellyfin
+ollama/ollama
