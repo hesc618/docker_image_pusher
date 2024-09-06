@@ -6,3 +6,5 @@ hectorqin/reader
 adguard/adguardhome
 nyanmisaka/jellyfin
 ollama/ollama
+zzcabc/danmuji
+snowdreamtech/frps
