@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 ollama/ollama
 zzcabc/danmuji
 snowdreamtech/frps
+ubuntu
